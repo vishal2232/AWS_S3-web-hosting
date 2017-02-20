@@ -1,0 +1,15 @@
+body {background: url(tile.jpg) repeat; margin: 0 auto; padding: 0;}
+h1, h2, h3, h4   {color:#090989; font-size: 2em; text-align: center; }
+p    {color:#040463}
+.container {}
+.wrapper {width: 900px; min-height: 600px; background-color: white; margin-left: auto; margin-right: auto; padding: 10px 25px 15px 25px;}
+.home_pic {float: right; padding-left: 15px; }
+.home_image { width: 600px; height: 450px;}
+.caption {font-size: x-small}
+.normal {font-size: larger;}
+.pic_right {float: right; width: 290px; }
+.pic_left {float: left; width: 290px; }
+.utext {padding: 5px 3px 2px 3px; vertical-align: top;}
+.rtext {clear: right;}
+.col {padding-right: 8px;}
+.colx {padding-left: 5px;}

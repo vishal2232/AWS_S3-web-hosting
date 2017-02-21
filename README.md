@@ -11,4 +11,4 @@ Now Create Bucket
 .<br>
 .<br>
 .<br>
-Folks you can continue further from my blog (https://vishalhbtu.blogspot.com).
+Folks you can continue further from my blog https://vishalhbtu.blogspot.com .

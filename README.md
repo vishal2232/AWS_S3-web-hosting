@@ -7,3 +7,8 @@ Note:To use AWS. Go through [AWS S3 pricing] (https://aws.amazon.com/s3/pricing/
 Login to your acccount.<br>
 Go to services and find AWS storage and choose S3<br>
 Now Create Bucket
+.<br>
+.<br>
+.<br>
+.<br>
+Folks you can continue further from my blog (https://vishalhbtu.blogspot.com).
